@@ -1,6 +1,6 @@
 <!-- Centered animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=900&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Biao+Chen+%F0%9F%91%8B;NYU+Information+Systems+Graduate;Loves+Data%2C+Design%2C+and+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=900&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Biao+Chen+%F0%9F%91%8B;NYU+Information+Systems+Graduate" alt="Typing SVG" />
 </p>
 
 <!-- Profile badges -->

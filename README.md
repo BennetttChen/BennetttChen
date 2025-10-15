@@ -3,6 +3,8 @@
 
 <h3 align="left">Connect with me:2357689298@qq.com</h3>
 <p align="left">
+  <img width="890" height="300" alt="image" src="https://github.com/user-attachments/assets/65fc2940-0262-40df-9b6b-f92ae08b2bd1" />
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

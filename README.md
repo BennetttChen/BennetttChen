@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:2357689298@qq.com</h3>
 <p align="left">
-  <img width="890" height="300" alt="image" src="https://github.com/user-attachments/assets/65fc2940-0262-40df-9b6b-f92ae08b2bd1" />
+  [<img width="890" height="300" alt="image" src="https://github.com/user-attachments/assets/65fc2940-0262-40df-9b6b-f92ae08b2bd1" />](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 </p>
 

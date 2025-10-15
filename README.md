@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biao Chen</h1>
 <h3 align="center">Graduate student of Information System in NYU</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:2357689298@qq.com</h3>
 <p align="left">
 </p>
 

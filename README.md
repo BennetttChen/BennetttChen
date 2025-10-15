@@ -18,7 +18,7 @@
 <h3 align="center">About me</h3>
 <p align="center">
   🎓 Graduate student of Information Systems @ NYU <br/>
-  💡 Interests: data apps · product engineering · interactive design <br/>
+  💡 Interests: data analysis · video game <br/>
   📫 Reach me: <a href="mailto:2357689298@qq.com">2357689298@qq.com</a>
 </p>
 

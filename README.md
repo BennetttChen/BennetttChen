@@ -1,12 +1,60 @@
-<h1 align="center">Hi 👋, I'm Biao Chen</h1>
-<h3 align="center">Graduate student of Information System in NYU</h3>
-
-<h3 align="left">Connect with me:2357689298@qq.com</h3>
-<p align="left">
-  
-
+<!-- Centered animated intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=900&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Biao+Chen+%F0%9F%91%8B;NYU+Information+Systems+Graduate;Loves+Data%2C+Design%2C+and+Dev" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- Profile badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BennetttChen&style=flat&label=Profile%20views" alt="views" />
+  <a href="mailto:2357689298@qq.com"><img src="https://img.shields.io/badge/Email-2357689298%40qq.com-blue?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin" /></a>
+</p>
+
+<!-- Hero GIF -->
+<p align="center">
+  <img src="https://github.com/BennetttChen/BennetttChen/blob/main/yato.gif" width="320" alt="Yato GIF" />
+</p>
+
+<h3 align="center">About me</h3>
+<p align="center">
+  🎓 Graduate student of Information Systems @ NYU <br/>
+  💡 Interests: data apps · product engineering · interactive design <br/>
+  📫 Reach me: <a href="mailto:2357689298@qq.com">2357689298@qq.com</a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BennetttChen&show_icons=true&rank_icon=github&hide_title=true&theme=transparent" height="160" />
+  <img src="https://streak-stats.demolab.com?user=BennetttChen&theme=transparent&hide_longest_streak=true" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennetttChen&layout=compact&langs_count=8&theme=transparent" height="160" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🔭 *Project One* — short one-liner about what it does (link)
+- 🧪 *Project Two* — what you experimented with (link)
+- 🎨 *Project Three* — design / interactive demo (link)
+
+---
+
+### 🤝 Contact
+- Email: <a href="mailto:2357689298@qq.com">2357689298@qq.com</a>
 

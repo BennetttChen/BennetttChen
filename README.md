@@ -48,10 +48,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🔭 *Project One* — short one-liner about what it does (link)
-- 🧪 *Project Two* — what you experimented with (link)
-- 🎨 *Project Three* — design / interactive demo (link)
 
 ---
 
